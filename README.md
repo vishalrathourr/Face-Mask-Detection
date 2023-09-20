@@ -1,4 +1,5 @@
 # Face Mask Detection Project
+![FaceMaskDetection](https://github.com/vishalrathourr/Face-Mask-Detection/assets/126953378/488f3e19-95c8-4355-913a-5ee203a3d3f8)
 
 ## Overview
 
